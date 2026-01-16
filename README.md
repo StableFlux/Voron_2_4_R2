@@ -1,6 +1,10 @@
 # Voron 2.4 R2 Klipper Configuration
 
-This repository contains the complete [Klipper](https://www.klipper3d.org/) configuration for a Voron 2.4 R2 350mm 3D printer, running on a BigTreeTech Octopus V1 mainboard and a BIGTREETECH EBBCan (SB2209) toolhead board. It includes advanced features such as sensorless homing, adaptive meshing and purging (KAMP), timelapse, and more.
+## 📌 Important Documentation  
+For CAN bus setup, troubleshooting, and configuration details, see:  
+👉 **[CAN Bus Setup & Troubleshooting](docs/CanBus.MD)**
+
+This repository contains the complete [Klipper](https://www.klipper3d.org/) configuration for a Voron 2.4 R2 350mm 3D printer, running on a BigTreeTech Octopus V1 mainboard, BIGTREETECH EBBCan (SB2209) toolhead board and a BTT CB1. It includes advanced features such as sensorless homing, adaptive meshing and purging (KAMP), timelapse, and more.
 
 ## Features
 
